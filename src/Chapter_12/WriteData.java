@@ -18,7 +18,7 @@ public class WriteData {
         {
         output.print("John T Smith ");
         output.print(90);
-        output.print("Eric K Jones ");
+        output.print(" Eric K Jones ");
         output.println(85);
         }
        // output.close();
